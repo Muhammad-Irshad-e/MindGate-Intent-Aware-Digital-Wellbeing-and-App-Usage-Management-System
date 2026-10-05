@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mindgate</string>
+    <string name="accessibility_service_description">Required to detect active applications for intent-aware digital wellbeing monitoring in MindGate.</string>
+</resources>
